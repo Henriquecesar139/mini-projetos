@@ -8,4 +8,5 @@
 	<li>Hello, World</li>
         <li>Calculadora</li>
 	<li>Tabuada</li>
+	<li>Sequência de Fibonacci</li>
 <ul>
