@@ -9,4 +9,5 @@
         <li>Calculadora</li>
 	<li>Tabuada</li>
 	<li>Sequência de Fibonacci</li>
+	<li>Verificador de Número primo</li>
 <ul>
