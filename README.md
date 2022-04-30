@@ -6,9 +6,10 @@
 
 <ul>
 	<li>Hello, World</li>
-        <li>Calculadora</li>
+	<li>Calculadora</li>
 	<li>Tabuada</li>
 	<li>Sequência de Fibonacci</li>
 	<li>Verificador de Número primo</li>
 	<li>Verificador de triângulo</li>
+        <li>Fatorial</li>
 <ul>
