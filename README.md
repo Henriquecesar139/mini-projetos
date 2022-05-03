@@ -11,5 +11,6 @@
 	<li>Sequência de Fibonacci</li>
 	<li>Verificador de Número primo</li>
 	<li>Verificador de triângulo</li>
-        <li>Fatorial</li>
+    <li>Fatorial</li>
+    <li>Área do retângulo</li>
 <ul>
