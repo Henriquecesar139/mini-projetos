@@ -1,6 +1,6 @@
 <h1 align="center">Mini projetos</h1>
 
-<h2 align="center">Pequenos projetos feitos diariamente</h2>
+<h2 align="center">Pequenos projetos feitos em diferentes linguagens</h2>
 
 <hr>
 
@@ -11,6 +11,6 @@
 	<li>Sequência de Fibonacci</li>
 	<li>Verificador de Número primo</li>
 	<li>Verificador de triângulo</li>
-    <li>Fatorial</li>
-    <li>Área do retângulo</li>
+    	<li>Fatorial</li>
+ 	<li>Área do retângulo</li>
 <ul>
